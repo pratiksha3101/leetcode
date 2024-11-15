@@ -61,7 +61,7 @@ func threeSumClosest(nums []int, target int) int {
 
 Thus, the overall time complexity is:
 \(
-O(n \log n) + O(n) \cdot O(n) = O(n^2)
+O(n log n) + O(n).O(n) = O(n^2)
 \)
 
 ### Space Complexity
