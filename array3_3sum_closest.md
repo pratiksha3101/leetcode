@@ -55,7 +55,7 @@ func threeSumClosest(nums []int, target int) int {
 ## Complexity Analysis
 
 ### Time Complexity
-1. **Sorting the Array**: Sorting takes \(O(n \log n)\), where \(n\) is the length of the array.
+1. **Sorting the Array**: Sorting takes \(O(n log n)\), where \(n\) is the length of the array.
 2. **Outer Loop**: The outer loop runs \(O(n)\) times since it iterates over the array.
 3. **Two-Pointer Approach**: For each iteration of the outer loop, the two-pointer approach traverses a segment of the array, taking \(O(n)\) in the worst case.
 
