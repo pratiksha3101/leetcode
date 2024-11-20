@@ -85,8 +85,6 @@ func traverse(root *TreeNode) {
 
 ## Insertion Point for Your Image![Screenshot from 2024-11-20 12-49-52](https://github.com/user-attachments/assets/159619ae-224c-47b5-a021-19b44735719e)
 
-[Your binary tree visualization would go here]
-
 
 ## Alternative Approaches
 1. **Iterative using Queue (BFS)**
