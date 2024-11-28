@@ -56,7 +56,8 @@ Kadane's algorithm is an elegant dynamic programming approach that solves the ma
 ## Code Examples
 ```go
 // Optimal solution using Kadane's Algorithm
-// When your current life situation (current sum) becomes negative or detrimental, it's better to reset to zero (start over) rather than continuing down a destructive path.
+// When your current life situation (current sum) becomes negative or detrimental,
+// it's better to reset to zero (start over) rather than continuing down a destructive path.
 func maxSubArray(nums []int) int {
     currSum := 0
     maxSum := math.MinInt
